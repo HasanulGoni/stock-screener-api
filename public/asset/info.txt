@@ -1,0 +1,26 @@
+Ploygon.ai
+user info
+
+
+
+electrocaredhaka@gmail.com
+pass
+PloyGabrile123#
+
+
+
+Finnhub
+pass
+JgMggkZvWf3U$7J
+
+https://finnhub.io/api/v1/news?category=general&token=d10rv31r01qse6ldm73gd10rv31r01qse6ldm740
+
+
+
+
+twelvedata
+https://api.twelvedata.com/time_series?symbol=AAPL&interval=1min&apikey=626c10a5057e48609387d464724fe4f5
+
+
+Open Tasks Scheduler from cmd(run as administrator)
+mmc taskschd.msc
