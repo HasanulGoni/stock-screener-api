@@ -1,0 +1,20 @@
+{
+
+    "country": "US",
+    "currency": "USD",
+    "estimateCurrency": "USD",
+    "exchange": "NASDAQ NMS - GLOBAL MARKET",
+    "finnhubIndustry": "Technology",
+    "ipo": "1980-12-12",
+    "logo": "https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/AAPL.png",
+    "marketCapitalization": 2922045.005300358,
+    "name": "Apple Inc",
+    "phone": "14089961010",
+    "shareOutstanding": 14935.83,
+    "ticker": "AAPL",
+    "weburl": "https://www.apple.com/"
+
+}
+
+
+// https://finnhub.io/api/v1/stock/profile2?symbol=AAPL&token=d10rv31r01qse6ldm73gd10rv31r01qse6ldm740

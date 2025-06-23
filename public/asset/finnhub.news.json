@@ -1,0 +1,18 @@
+
+[
+
+    {
+        "category": "company",
+        "datetime": 1750161900,
+        "headline": "IMUNON Announces PlaCCine® DNA Vaccine Technology Abstract Selected for Oral Presentation at 10th International Conference on Vaccines Research & Development™",
+        "id": 135337455,
+        "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+        "related": "IMNN",
+        "source": "Yahoo",
+        "summary": "Clinical Data Highlight PlaCCine’s Six-Month Durability, Temperature Stability, and Manufacturing Advantages Over mRNA Vaccines IMUNON Seeks Strategic Partner for PlaCCine® to Advance Novel Technology and Fund Core Pipeline with Non-Dilutive Capital LAWRENCEVILLE, N.J., June 17, 2025 (GLOBE NEWSWIRE) -- IMUNON, Inc. (NASDAQ: IMNN), a clinical-stage company focused on developing non-viral DNA-mediated immunotherapies and evaluating an adaptation of the platform’s potential as a next-generation va",
+        "url": "https://finnhub.io/api/news?id=5327e122ce136906645a10c0651db297cb02d30adb98db49d98eb66c75d1ef20"
+    }
+
+]
+
+// http://localhost/FreelancerProject/Gabriel/stock-screener/api/public/api/news

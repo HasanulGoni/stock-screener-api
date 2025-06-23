@@ -1,0 +1,53 @@
+
+[
+
+    {
+        "symbol": "IMNN",
+        "price": 1.01,
+        "volume": null,
+        "float": 14.62,
+        "gap": -10.6195,
+        "change": -0.12,
+        "rel_vol": null,
+        "short_interest": 519008,
+        "news": "low",
+        "strategy": "Unknown"
+    },
+    {
+        "symbol": "SBET",
+        "price": 10.285,
+        "volume": null,
+        "float": 0.7,
+        "gap": -13.9331,
+        "change": -1.665,
+        "rel_vol": null,
+        "short_interest": 684677,
+        "news": "low",
+        "strategy": "Unknown"
+    },
+    {
+        "symbol": "REVB",
+        "price": 0.798239,
+        "volume": null,
+        "float": 0.96,
+        "gap": 1.0429,
+        "change": 0.008239,
+        "rel_vol": null,
+        "short_interest": 815319,
+        "news": "low",
+        "strategy": "Unknown"
+    },
+    {
+        "symbol": "FATN",
+        "price": 8.45,
+        "volume": null,
+        "float": 13.72,
+        "gap": -0.7051,
+        "change": -0.06,
+        "rel_vol": null,
+        "short_interest": 258745,
+        "news": "low",
+        "strategy": "Unknown"
+    }
+
+]

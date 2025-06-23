@@ -8,7 +8,7 @@ use App\Http\Controllers\Controller;
 
 class StockController extends Controller
 {
-    public function index(Request $request)
+    public function index()
     {
         $stocks = Stock::latest()->paginate(20);
         return response()->json($stocks);
@@ -18,5 +18,9 @@ class StockController extends Controller
     {
         $stock = Stock::where('symbol', strtoupper($symbol))->firstOrFail();
         return response()->json($stock);
+    }
+
+    public function test(){
+        return response()->json(['message' => 'Test endpoint is working!']);
     }
 }
