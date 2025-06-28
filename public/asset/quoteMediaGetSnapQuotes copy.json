@@ -1,0 +1,96 @@
+{
+    "copyright": "Copyright (c) 2025 QuoteMedia, Inc.",
+    "symbolcount": 2,
+    "quotedata": [
+        {
+            "status": {},
+            "pricedata": {
+                "last": 495.64,
+                "change": 3.37,
+                "changepercent": 0.684584,
+                "tick": 0,
+                "open": 492.98,
+                "high": 496.96,
+                "low": 492.81,
+                "prevclose": 492.27,
+                "bid": 495.60,
+                "ask": 495.67,
+                "bidsize": 200,
+                "asksize": 200,
+                "lasttradesize": 100,
+                "tradevolume": 210090,
+                "sharevolume": 7635308,
+                "lasttradedatetime": "2025-06-26T13:12:55-04:00",
+                "lastquotedatetime": "2025-06-26T13:12:57-04:00",
+                "lastmarketidentificationcode": "NDD",
+                "bidmarketidentificationcode": "NSD",
+                "askmarketidentificationcode": "EDGX",
+                "imbalance": {
+                    "imbalancetype": "None",
+                    "imbalanceprice": 493.08,
+                    "imbalancesize": 0,
+                    "imbalanceside": "S"
+                }
+            },
+            "symbolstring": "MSFT",
+            "datatype": "equity",
+            "entitlement": "RT",
+            "delaymin": null,
+            "datetime": "2025-06-26T13:12:57-04:00",
+            "iscurrentlyopen": true,
+            "longname": "Microsoft Corporation",
+            "shortname": "Microsoft Corpor",
+            "exchange": "NGS",
+            "isopen": true,
+            "symbol": "MSFT",
+            "exLgName": "Nasdaq Global Select",
+            "exShName": "NGS"
+        },
+        {
+            "status": {},
+            "pricedata": {
+                "last": 200.07,
+                "change": -1.49,
+                "changepercent": -0.739234,
+                "tick": 0,
+                "open": 201.43,
+                "high": 202.64,
+                "low": 199.46,
+                "prevclose": 201.56,
+                "bid": 200.06,
+                "ask": 200.08,
+                "bidsize": 200,
+                "asksize": 200,
+                "lasttradesize": 100,
+                "tradevolume": 389190,
+                "sharevolume": 25685675,
+                "lasttradedatetime": "2025-06-26T13:12:54-04:00",
+                "lastquotedatetime": "2025-06-26T13:12:57-04:00",
+                "lastmarketidentificationcode": "NSD",
+                "bidmarketidentificationcode": "IEXG",
+                "askmarketidentificationcode": "NSD",
+                "imbalance": {
+                    "imbalancetype": "None",
+                    "imbalanceprice": 201.32,
+                    "imbalancesize": 0,
+                    "imbalanceside": "S"
+                }
+            },
+            "symbolstring": "AAPL",
+            "datatype": "equity",
+            "entitlement": "RT",
+            "delaymin": null,
+            "datetime": "2025-06-26T13:12:57-04:00",
+            "iscurrentlyopen": true,
+            "longname": "Apple Inc.",
+            "shortname": "Apple Inc.",
+            "exchange": "NGS",
+            "isopen": true,
+            "symbol": "AAPL",
+            "exLgName": "Nasdaq Global Select",
+            "exShName": "NGS"
+        }
+    ]
+}
+
+// https://app.quotemedia.com/data/getSnapQuotes.json?webmasterId=501&symbols=MSFT,AAPL&sid=22a93b25-0094-438f-98f1-3ce91343f72d

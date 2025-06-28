@@ -41,5 +41,14 @@ return [
     'finnhub' => [
         'api_key' => env('FINNHUB_API_KEY'),
     ],
+    'twelvedata' => [
+        'api_key' => env('TWELVEDATA_API_KEY'),
+    ],
+    'quotestream' => [
+        'user' => env('QUOTESTREAM_API_USER'),
+        'pass' => env('QUOTESTREAM_API_PASS'),
+        'url' => env('QUOTESTREAM_BASE_URL'),
+        'sid' => env('QUOTESTREAM_SESSION_ID'),
+    ],
 
 ];
